@@ -9,8 +9,8 @@ T6.Recursividad
 T7.Pilas
 T8.Colas
 T9.ColasCirculares
-T20.Bicolas
-T21.Listas Enlazadas
+T10.Bicolas
+T11.Listas Enlazadas
 
 PRÁCTICAS
 P1.NúmerosNatu(recursividad)
